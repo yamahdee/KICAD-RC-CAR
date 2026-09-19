@@ -214,6 +214,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.3,
         0.4,
         0.5,
@@ -260,7 +261,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "1"
+      "sch_revision": "2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -778,7 +779,7 @@
         "uuid": "6dbdfc75-7f8a-45f6-8d66-b704481f4ea6"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-6,U8,D1-5,#PWR1-78,#PWR113,C1-20,C30,#FLG1-5,R1-22,BATT1-2,Q1-4,SW1-4,F1-2,H1-2,J1-5,SW_Conn1,TP1-2,USB1",
     "variants": []
   },
   "sheets": [
